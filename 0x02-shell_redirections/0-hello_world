@@ -1,0 +1,12 @@
+
+#!/bin/bash
+echo 'hello world
+
+ls
+,
+-
+C-x C 
+C-x C <right>
+>
+cat > 0-hello world
+cd root
